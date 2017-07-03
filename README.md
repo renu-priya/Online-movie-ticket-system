@@ -1,1 +1,1 @@
-# Online-movie-ticket-system
+# Movie-Ticket-Booking-System
